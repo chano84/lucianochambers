@@ -1,4 +1,4 @@
-# Grupo de WhathsApp XCALE
+# Grupo de Whathsapp XCALE
 
 Start App:
 ```
