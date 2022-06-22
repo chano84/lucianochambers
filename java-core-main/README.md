@@ -3,7 +3,7 @@
 Start App:
 ```
 mvn clean install
-java src/main/java/com/core/Application.java o RUN de Application.java desde el IDE Application.java
+java src/main/java/com/core/Application.java o RUN de Application.java desde el IDE
 
 ```
 
