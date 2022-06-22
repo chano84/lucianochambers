@@ -7,7 +7,7 @@ java src/main/java/com/core/Application.java o RUN de Application.java desde el 
 
 ```
 
-Visualizacion de Base de Datos: </br>
+Visualizacion de Base de Datos: 
 ```
 URL: http://localhost:8080/h2 </br>
 Ingresar en el campo JDBC URL: jdbc:h2:mem:testdb
